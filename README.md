@@ -36,9 +36,11 @@ Projede kullanılan modeller ve teknikler şunlardır:
 1. **Support Vector Classifier (SVC)**
 Varsayılan SVC modeli ile dokunuş türleri tahmin edilmiştir.
 Hiperparametre Optimizasyonu GridSearchCV kullanılarak C, gamma ve kernel parametreleri optimize edilmiştir.
-2. **Principal Component Analysis (PCA)**
+
+3. **Principal Component Analysis (PCA)**
 PCA kullanılarak özellik setinin boyutu indirgenmiş ve %95 varyans korunmuştur.
 PCA'nın model performansı üzerindeki etkisi, hem varsayılan hem de optimize edilmiş SVC modelleri ile değerlendirilmiştir.
+
 3.**Karar Ağaçları (Decision Trees)**
 Karar ağacı modeli, karşılaştırma ve performans değerlendirmesi için kullanılmıştır.
 
