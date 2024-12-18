@@ -1,0 +1,2 @@
+**Haptic Fabric Touch Recognition with PCA ve Hiperparametre Optimizasyonu**
+Bu proje, özel olarak üretilmiş akıllı kumaş üzerinde kullanıcı etkileşimlerini tanımayı amaçlamaktadır. Veri seti, kumaşa yerleştirilen 16 iletken iplik kanalından, her bir kanalda 200 farklı frekansta sinyallerin ölçüldüğü bir koleksiyondan elde edilmiştir. Amaç, dokunuş türlerini sınıflandırmak, kullanıcıları tanımak ve Principal Component Analysis (PCA) ve Hiperparametre Optimizasyonu gibi tekniklerle model performansını iyileştirmektir.
