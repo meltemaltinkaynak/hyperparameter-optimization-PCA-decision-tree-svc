@@ -44,6 +44,7 @@ Karar ağacı modeli, karşılaştırma ve performans değerlendirmesi için kul
 
 
 **Sonuçlar**
+
 SVC Modeli: Test seti üzerinde yaklaşık %68 doğruluk elde edilmiştir.
 Optimize Edilmiş SVC Modeli: Hiperparametre optimizasyonu sonrası doğruluk %69'a çıkmıştır.
 PCA ve SVC: PCA ile boyut indirgeme sonrası test seti doğruluğu yaklaşık %68'dir.
